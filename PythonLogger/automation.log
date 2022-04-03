@@ -1,0 +1,30 @@
+2022-04-03 22:34:05,991  -This will get loggeed to file
+2022-04-03 22:34:05,991  -This will get loggeed to file
+2022-04-03 22:34:05,991  -This will get loggeed to file
+2022-04-03 22:34:05,991  -This will get loggeed to file
+NoneType: None
+2022-04-03 22:34:06,050  -{'name': 'sunil', 'job': 'APi Automation Lead'}
+2022-04-03 22:34:06,418  -b'{"name":"sunil","job":"APi Automation Lead","id":"380","createdAt":"2022-04-03T17:04:06.474Z"}'
+2022-04-03 22:34:06,418  -{'name': 'sunil', 'job': 'APi Automation Lead', 'id': '380', 'createdAt': '2022-04-03T17:04:06.474Z'}
+2022-04-03 22:34:06,419  -['380']
+2022-04-03 22:34:06,419  -['APi Automation Lead']
+2022-04-03 22:34:34,671  -This will get loggeed to file
+2022-04-03 22:34:34,671  -This will get loggeed to file
+2022-04-03 22:34:34,671  -This will get loggeed to file
+2022-04-03 22:34:34,671  -This will get loggeed to file
+NoneType: None
+2022-04-03 22:34:34,720  -{'name': 'sunil', 'job': 'APi Automation Lead'}
+2022-04-03 22:34:35,074  -b'{"name":"sunil","job":"APi Automation Lead","id":"363","createdAt":"2022-04-03T17:04:35.135Z"}'
+2022-04-03 22:34:35,074  -{'name': 'sunil', 'job': 'APi Automation Lead', 'id': '363', 'createdAt': '2022-04-03T17:04:35.135Z'}
+2022-04-03 22:34:35,074  -['363']
+2022-04-03 22:34:35,074  -['APi Automation Lead']
+2022-04-03 22:34:39,484  -This will get loggeed to file
+2022-04-03 22:34:39,484  -This will get loggeed to file
+2022-04-03 22:34:39,484  -This will get loggeed to file
+2022-04-03 22:34:39,484  -This will get loggeed to file
+NoneType: None
+2022-04-03 22:34:39,531  -{'name': 'sunil', 'job': 'APi Automation Lead'}
+2022-04-03 22:34:39,883  -b'{"name":"sunil","job":"APi Automation Lead","id":"823","createdAt":"2022-04-03T17:04:39.937Z"}'
+2022-04-03 22:34:39,884  -{'name': 'sunil', 'job': 'APi Automation Lead', 'id': '823', 'createdAt': '2022-04-03T17:04:39.937Z'}
+2022-04-03 22:34:39,885  -['823']
+2022-04-03 22:34:39,885  -['APi Automation Lead']

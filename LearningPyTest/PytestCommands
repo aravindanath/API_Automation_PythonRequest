@@ -1,0 +1,12 @@
+py.test test_GetRequest_001.py -s -v --html report1.html --capture sys
+
+py.test test_GetRequest_001.py -s -v --html report1.html
+
+py.test -m "Smoke" -s -v --html report1.html
+
+py.test -m "Regression" -s -v --html report1.html
+
+pytest
+pytest-html
+pytest-ordering
+pytest-dependency
